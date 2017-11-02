@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "next": "^4.1.4",
